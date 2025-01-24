@@ -72,7 +72,7 @@
 
 ---
 
-## 💻 Установка и запуск
+## 💻 Установка
 
 ### 1. Установка зависимостей
 Убедитесь, что установлены следующие библиотеки:
@@ -87,15 +87,6 @@
 ```bash
 pip install tensorflow keras numpy matplotlib scikit-learn 
 
-### 2. Клонирование репозитория
-
-git clone https://github.com/yourusername/Neural-Network-Optimization.git
-cd Neural-Network-Optimization
-
-
-### 3. Запуск проекта
-
-jupyter notebook Neural_Network_Optimization.ipynb
 
 
 📊 Используемые технологии
